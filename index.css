@@ -1,0 +1,53 @@
+body {
+	background-image: url('114H.jpg');
+	background-repeat:no-repeat;
+	background-position: top center;
+}
+
+#box {
+	background-color:rgba(0, 178, 146, 0.2);
+	padding:1rem;
+	margin-top:3rem;
+	margin:1rem;
+	max-width: 800px;
+	margin: 0 auto;
+	vertical-align: bottom;
+
+}
+
+#second {
+	color:white;
+	font-family: 'Abel', sans-serif;
+	font-size:8rem;
+	text-align: center;
+}
+
+#third {
+	color:white;
+	font-family: 'Abel', sans-serif;
+	font-size:1.5rem;
+	text-align: left;
+}
+
+#itemList {
+	color:white;
+	text-align: left;
+	font-family: 'Abel', sans-serif;
+	font-size: 3rem;
+}
+
+#a {
+	color:white;
+	text-decoration: none;
+}
+
+a:visited { text-decoration: none; color:white; }
+a:hover { text-decoration: none; color:white; }
+a:focus { text-decoration: none; color:yellow; }
+a:hover, a:active { text-decoration: none; color:black }
+
+/*
+margins
+
+
+*/
