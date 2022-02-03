@@ -2,7 +2,7 @@ body {
 	background-image: url('P8071073.JPG');
 	background-repeat:no-repeat;
 	background-position: top center;
-	background-size: auto;
+	background-size: cover;
 }
 
 #box {
